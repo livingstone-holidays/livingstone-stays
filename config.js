@@ -3,7 +3,7 @@ const config = {
   accessToken:
     "pk.eyJ1IjoibGl2aW5nc3RvbmVzdGF5cyIsImEiOiJja3EyOGZoNTEwbTJ0MndwODVvdmlsMzNpIn0.1RIytc5O3-uTZHCjysTAuw",
   csv: "./data.csv",
-  center: [30.462,80.115],
+  center: [80.115,30.462],
   zoom: 6.5,
   title: "LivingStone Stays",
   description:
